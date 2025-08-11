@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AntlerTail",
+			"Path": "..\\Source\\AntlerTail.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AntlerTailEditor",
+			"Path": "..\\Source\\AntlerTailEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

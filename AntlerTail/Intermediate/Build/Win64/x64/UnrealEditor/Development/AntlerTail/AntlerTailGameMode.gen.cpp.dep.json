@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unreal projects\\antlertail\\antlertail\\intermediate\\build\\win64\\unrealeditor\\inc\\antlertail\\uht\\antlertailgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unreal projects\\antlertail\\antlertail\\intermediate\\build\\win64\\x64\\antlertaileditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\work\\unreal projects\\antlertail\\antlertail\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\antlertail\\definitions.antlertail.h",
+            "c:\\work\\unreal projects\\antlertail\\antlertail\\source\\antlertail\\antlertailgamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\work\\unreal projects\\antlertail\\antlertail\\intermediate\\build\\win64\\unrealeditor\\inc\\antlertail\\uht\\antlertailgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

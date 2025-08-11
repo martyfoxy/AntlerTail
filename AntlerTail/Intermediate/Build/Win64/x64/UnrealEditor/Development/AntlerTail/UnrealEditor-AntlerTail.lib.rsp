@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AntlerTail.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Work\Unreal Projects\AntlerTail\AntlerTail\Intermediate\Build\Win64\x64\AntlerTailEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Work\Unreal Projects\AntlerTail\AntlerTail\Intermediate\Build\Win64\x64\UnrealEditor\Development\AntlerTail\AntlerTail.init.gen.cpp.obj"
+"C:\Work\Unreal Projects\AntlerTail\AntlerTail\Intermediate\Build\Win64\x64\UnrealEditor\Development\AntlerTail\AntlerTailCharacter.gen.cpp.obj"
+"C:\Work\Unreal Projects\AntlerTail\AntlerTail\Intermediate\Build\Win64\x64\UnrealEditor\Development\AntlerTail\AntlerTailGameMode.gen.cpp.obj"
+"C:\Work\Unreal Projects\AntlerTail\AntlerTail\Intermediate\Build\Win64\x64\UnrealEditor\Development\AntlerTail\AntlerTail.cpp.obj"
+"C:\Work\Unreal Projects\AntlerTail\AntlerTail\Intermediate\Build\Win64\x64\UnrealEditor\Development\AntlerTail\AntlerTailCharacter.cpp.obj"
+"C:\Work\Unreal Projects\AntlerTail\AntlerTail\Intermediate\Build\Win64\x64\UnrealEditor\Development\AntlerTail\AntlerTailGameMode.cpp.obj"
+"C:\Work\Unreal Projects\AntlerTail\AntlerTail\Intermediate\Build\Win64\x64\UnrealEditor\Development\AntlerTail\PerModuleInline.gen.cpp.obj"
+"C:\Work\Unreal Projects\AntlerTail\AntlerTail\Intermediate\Build\Win64\x64\UnrealEditor\Development\AntlerTail\Default.rc2.res"
+/OUT:"C:\Work\Unreal Projects\AntlerTail\AntlerTail\Intermediate\Build\Win64\x64\UnrealEditor\Development\AntlerTail\UnrealEditor-AntlerTail.lib"

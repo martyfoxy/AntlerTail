@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unreal projects\\antlertail\\antlertail\\intermediate\\build\\win64\\unrealeditor\\inc\\antlertail\\uht\\antlertail.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unreal projects\\antlertail\\antlertail\\intermediate\\build\\win64\\x64\\antlertaileditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\work\\unreal projects\\antlertail\\antlertail\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\antlertail\\definitions.antlertail.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
