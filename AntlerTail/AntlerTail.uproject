@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.5",
 	"Category": "",
-	"Description": "",
+	"Description": "Copyright 2025 Viacheslav Chudaev. All rights reserved.",
 	"Modules": [
 		{
 			"Name": "AntlerTail",
@@ -11,6 +11,11 @@
 			"AdditionalDependencies": [
 				"Engine"
 			]
+		},
+		{
+			"Name": "LevelGridEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
