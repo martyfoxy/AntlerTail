@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Work\\Unreal Projects\\AntlerTail\\AntlerTail\\Source\\AntlerTail\\AntlerTail.Build.cs",
-		"C:\\Work\\Unreal Projects\\AntlerTail\\AntlerTail\\Source\\AntlerTail.Target.cs",
-		"C:\\Work\\Unreal Projects\\AntlerTail\\AntlerTail\\Source\\AntlerTailEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.4"
-}
